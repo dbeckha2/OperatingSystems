@@ -1,0 +1,11 @@
+ls
+cd Lab1
+pwd
+ls > bad
+ls -a
+cd
+
+ls > bam
+pwd
+
+ls
